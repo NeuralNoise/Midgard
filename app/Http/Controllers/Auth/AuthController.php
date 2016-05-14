@@ -1,10 +1,10 @@
 <?php
 
-namespace App\Http\Controllers\Auth;
+namespace Terra\Midgard\Http\Controllers\Auth;
 
-use App\User;
+use Terra\Midgard\User;
 use Validator;
-use App\Http\Controllers\Controller;
+use Terra\Midgard\Http\Controllers\Controller;
 use Illuminate\Foundation\Auth\ThrottlesLogins;
 use Illuminate\Foundation\Auth\AuthenticatesAndRegistersUsers;
 

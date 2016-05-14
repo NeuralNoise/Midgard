@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Jobs;
+namespace Terra\Midgard\Jobs;
 
 use Illuminate\Bus\Queueable;
 

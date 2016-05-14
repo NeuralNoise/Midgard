@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Events;
+namespace Terra\Midgard\Events;
 
 abstract class Event
 {

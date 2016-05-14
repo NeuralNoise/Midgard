@@ -34,7 +34,7 @@
             "database"
         ],
         "psr-4": {
-            "Midgard\\": "app/"
+            "Terra\\Midgard\\": "app/"
         }
     },
     "autoload-dev": {
